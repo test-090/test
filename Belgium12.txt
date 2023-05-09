@@ -1,0 +1,6 @@
+﻿"vat number", "vat num", "numéro tva", "umsatzsteuer-identifikationsnummer", "umsatzsteuernummer"
+
+
+chjvvcciuav
+
+BE0776091951, BE 0776091951, BE0428759497, BE0931150312, BE0878327575
